@@ -1,0 +1,30 @@
+## 環境
+- GNU準拠コマンド
+- [Windows, Macでの環境作成の参考](https://github.com/bio-shell/dailybiocommands/blob/master/docs/environment.md)
+
+## ルール
+- ワンライナーで実行し、コマンドをTwitterに #バイオシェル芸 をつけて投稿する
+- perl, ruby等、プログラム言語は原則禁止とするが、ワンライナーの場合は #バイオシェル芸 #模範演技 をつけてTwitterへ投稿可
+- 中・上級者の自負があるものは、「上級者向け禁じ手」にあるコマンドを使用せずに解くこと
+
+## 問題
+
+### 「Qx. ゴリラをチキンに変える」
+
+- ゴリラ（Gorilla gorilla）という文字列をチキン（Gallus gallus）に変換してください
+- 上級者向け禁じ手： ***sed***
+
+- 解答例（最後に見せる）
+  - `$ echo "Gorilla gorilla" | sed -e 's/orilla/allus/g'`
+
+### 「Qx. CSV、前から読むか、後ろから読むか」
+
+- knowngene.csvからchr, start, end, symbolを抜き出してこの順にタブ区切りで出力してください
+  - symbolが日付になっているのは、Excelが遺伝子名を勝手に日付型へ変換してしまったというあるあるネタの再現です
+
+- 解答例
+
+NCBI GEO
+キイロショウジョウバエとオナジショウジョウバエの胚のmRNAプロファイル
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE102233
+
