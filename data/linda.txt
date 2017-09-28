@@ -1,0 +1,22 @@
+#Kingdom,Phylum,Class,Order,Suborder,Family,Lyric,Genus,Binomial name,Described by
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda annamensis,Breuning
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda annulicornis,Matsushita
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"U La U La De,",Linda,Linda assamensis,Breuning
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,< Linda!,Linda,Linda atricornis,Pic
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda bimaculicollis,Breuning
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda femorata,Chevrolat
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"U La U La Yo,",Linda,Linda fraterna,Chevrolat
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,< Linda!,Linda,Linda gracilicornis,Pic
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda javaensis,Breuning
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda macilenta,Gressitt
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"U La U La De,",Linda major,Gressitt
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,< Linda!,Linda,Linda nigroscutata,Fairmaire
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda pyritosa,Holzschuh
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda rubescens,Hope
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"U La U La Yo,",Linda,Linda semiatra,Holzschuh
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,< Linda!,Linda,Linda semivittata,Fairmaire
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda signaticornis,Schwarzer
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"Uh,La-la,",Linda,Linda stolata,Pesarini&Sabbadini
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,"U La U La De,",Linda,Linda subannulicornis,Breuning
+Animalia,Arthropoda,Insecta,Coleoptera,Polyphaga,Cerambycidae,< Linda!,Linda,Linda zayuensis,Pu
+#https://en.wikipedia.org/wiki/Linda_(genus)
