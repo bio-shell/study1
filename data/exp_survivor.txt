@@ -1,0 +1,5 @@
+GeneA	1.1
+GeneB	29.1
+GeneC	0.3
+GeneE	4.2
+GeneF	3.9

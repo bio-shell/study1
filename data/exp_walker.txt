@@ -1,0 +1,5 @@
+GeneA	0.1
+GeneB	0.1
+GeneD	500.6
+GeneE	4.2
+GeneG	34.7
